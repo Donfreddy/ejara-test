@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606622801028",
+    "project_id": "ejara-7888c",
+    "storage_bucket": "ejara-7888c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606622801028:android:67363af6498fde796a36d1",
+        "android_client_info": {
+          "package_name": "com.example.ejara_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606622801028-1pdlu5b9l2un9uuluc38oms6bahhm3t7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejara_test",
+            "certificate_hash": "d11e7c170654b1564a4ef8d15eafb91fdff92dff"
+          }
+        },
+        {
+          "client_id": "606622801028-cspjguhb7jaqul5irhrglg8d0o719s2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZF9TC4A2r5HMBUXMw1QItsCHd8PGrvzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606622801028-cspjguhb7jaqul5irhrglg8d0o719s2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,7 +1,16 @@
+import 'dart:developer';
+
+import 'package:ejara_test/config.dart';
 import 'package:ejara_test/home.dart';
+import 'package:ejara_test/pusher_beams.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() async {
+  log(Properties.instanceId);
+
+  // Initialize PusherBeams as soon as possible (here is RECOMMENDED)
+  await PusherBeams.start(Properties.instanceId);
+
   runApp(const MyApp());
 }
 
